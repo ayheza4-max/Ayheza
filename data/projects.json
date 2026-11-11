@@ -1,26 +1,26 @@
 [
   {
-    "title": "Grade Calculator",
-    "description": "A web app that helps students compute their weighted grade and see what score they need on the final exam.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Solo developer: designed the interface and wrote all the code",
+    "title": "Habit Tracker",
+    "description": "A weekly habit tracker where you add habits, pick any week with a date picker, and mark each day as done or missed. All progress is saved in the browser, so it is still there after a refresh.",
+    "technologies": ["HTML", "CSS", "JavaScript", "localStorage"],
+    "role": "Solo developer: built the weekly grid, the date logic and the save/load system",
     "screenshot": "project1.png",
-    "link": "https://github.com/yourusername/grade-calculator"
+    "link": "https://ayheza4-max.github.io/Habit-Tracker/"
   },
   {
-    "title": "Campus Events Board",
-    "description": "A group project that lists upcoming school events with search and category filters, backed by a small database.",
-    "technologies": ["Python", "Flask", "MySQL"],
-    "role": "Backend developer: built the database and the event search",
+    "title": "Subnet Calculator",
+    "description": "An IPv4 subnet calculator. Enter an IP address and a CIDR prefix to instantly see the network address, broadcast, subnet mask, usable host range and total host count.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "role": "Solo developer: built the 32-bit subnet math and a clean results panel",
     "screenshot": "project2.png",
-    "link": "https://github.com/yourusername/campus-events"
+    "link": "https://ayheza4-max.github.io/Subnet-Calculator/"
   },
   {
-    "title": "Weather Now",
-    "description": "A mobile-friendly weather dashboard that fetches live forecasts from a public REST API.",
-    "technologies": ["JavaScript", "REST API", "JSON"],
-    "role": "Solo developer: handled API calls, error messages and responsive layout",
+    "title": "Password Generator",
+    "description": "A password generator with adjustable length and toggles for uppercase, numbers and symbols. Shows a live strength meter and copies the password with one click.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Web Crypto API"],
+    "role": "Solo developer: handled secure random generation and the strength meter",
     "screenshot": "project3.png",
-    "link": "https://github.com/yourusername/weather-now"
+    "link": "https://ayheza4-max.github.io/Password-Generator/"
   }
 ]
