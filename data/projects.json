@@ -4,7 +4,7 @@
     "description": "A weekly habit tracker where you add habits, pick any week with a date picker, and mark each day as done or missed. All progress is saved in the browser, so it is still there after a refresh.",
     "technologies": ["HTML", "CSS", "JavaScript", "localStorage"],
     "role": "Solo developer: built the weekly grid, the date logic and the save/load system",
-    "screenshot": "project1.png",
+    "screenshot": "project1.png", 
     "link": "https://ayheza4-max.github.io/Habit-Tracker/"
   },
   {
