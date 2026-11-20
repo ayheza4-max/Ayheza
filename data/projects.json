@@ -8,12 +8,12 @@
     "link": "https://ayheza4-max.github.io/Habit-Tracker/"
   },
   {
-    "title": "Subnet Calculator",
-    "description": "An IPv4 subnet calculator. Enter an IP address and a CIDR prefix to instantly see the network address, broadcast, subnet mask, usable host range and total host count.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Solo developer: built the 32-bit subnet math and a clean results panel",
+    "title": "Habit Tracker App",
+    "description": "An installable Progressive Web App (PWA) version of the Habit Tracker. Features include weekly progress bars, streak tracking, offline support, and the ability to install it directly to your phone's home screen.",
+    "technologies": ["HTML", "CSS", "JavaScript", "PWA", "Service Worker", "localStorage"],
+    "role": "Solo developer: implemented the PWA manifest, service worker for offline caching, and the install prompt UI",
     "screenshot": "project2.png",
-    "link": "https://ayheza4-max.github.io/Subnet-Calculator/"
+    "link": "https://ayheza4-max.github.io/HabitTrackerapp/"
   },
   {
     "title": "Password Generator",
