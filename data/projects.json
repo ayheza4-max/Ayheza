@@ -12,7 +12,7 @@
     "description": "An installable Progressive Web App (PWA) version of the Habit Tracker. Features include weekly progress bars, streak tracking, offline support, and the ability to install it directly to your phone's home screen.",
     "technologies": ["HTML", "CSS", "JavaScript", "PWA", "Service Worker", "localStorage"],
     "role": "Solo developer: implemented the PWA manifest, service worker for offline caching, and the install prompt UI",
-    "screenshot": "project2.png",
+    "screenshot": "project2.jpeg",
     "link": "https://ayheza4-max.github.io/HabitTrackerapp/"
   },
   {
